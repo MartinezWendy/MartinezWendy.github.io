@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://martinezwendy.github.io/sitemap.xml
